@@ -1,2 +1,3 @@
 # Chatbot
-JavaScript Chatbox
+JavaScript Chatbot
+
